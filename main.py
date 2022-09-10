@@ -25,3 +25,6 @@ df_contracts = pd.read_csv('Data/Контракты_Иркутск.csv')
 # })
 #
 # second_file.to_csv('Data/csv_files/Исполнители_file.csv')
+
+
+#     https://colab.research.google.com/drive/1GD3ImDDckthlXM23z8ZoKfiwd7WVb8Rm#scrollTo=G2kHvjtJZnly&uniqifier=1
